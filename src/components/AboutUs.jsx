@@ -34,7 +34,7 @@ const AboutUs = () => {
         
 
         <div id='about-img' data-aos="zoom-in-down" className='order-2 flex flex-col  justify-around items-center lg:w-[50%] w-full lg:order-3'>
-          <img src="./images/about-img.jpg" alt="About Image" height={400} width={400} srcset="" className='rounded-xl mb-8' />
+          <img src="./images/about-img.jpg" alt="" height={400} width={400} srcset="" className='rounded-xl mb-8' />
           <button data-aos="fade-in" className='bg-orange-500 order-3 px-8 py-4 rounded-full lg:order-2 lg:hidden hover:bg-green-500 hover:text-black font-bold mt-3 mb-3'>READ MORE</button>
 
         </div>

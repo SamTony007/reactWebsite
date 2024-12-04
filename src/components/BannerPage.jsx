@@ -33,7 +33,7 @@ const BannerPage = () => {
 
         </div>
         <div id='about-img' data-aos="zoom-in-down" className=' flex flex-col justify-around items-center lg:w-[50%] w-full lg:order-3 '>
-        <img src="./images/banner1-img.png" alt="Connect Image" height={400} width={400} srcset="" className='rounded-xl mb-8 md:block hidden ' />
+        <img src="./images/banner1-img.png" alt="" height={400} width={400} srcset="" className='rounded-xl mb-8 md:block hidden ' />
     
         </div>
 
