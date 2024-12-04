@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { FaIconName } from 'react-icons/fa';
 import { FaXmark, FaBars } from 'react-icons/fa6';
 import { Link } from "react-scroll";
 // import { FaXMark, FaBars } from 'react-icons/fa6';
