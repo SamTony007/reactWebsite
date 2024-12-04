@@ -61,11 +61,7 @@ const DeliveryAndPayment = () => {
                         alt="PayPal"
                         className="h-20"
                     />
-                    <img
-                        src="./images/american-express-img.png"
-                        alt="American Express"
-                        className="h-16"
-                    />
+                
                 </div>
             </div>
         </div>
