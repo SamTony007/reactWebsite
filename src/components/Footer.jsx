@@ -2,6 +2,8 @@ import React, { useEffect } from 'react';
 import AOS from "aos";
 import 'aos/dist/aos.css';
 import { Link } from "react-scroll"
+// import { Link, animateScroll as scroll } from 'react-scroll';
+
 
 const Footer = () => {
     useEffect(() => {
